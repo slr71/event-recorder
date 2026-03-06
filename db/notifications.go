@@ -7,7 +7,7 @@ import (
 	"fmt"
 
 	"github.com/cyverse-de/event-recorder/common"
-	"github.com/cyverse-de/messaging/v11"
+	"github.com/cyverse-de/messaging/v12"
 	"github.com/pkg/errors"
 
 	sq "github.com/Masterminds/squirrel"

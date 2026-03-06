@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/cyverse-de/event-recorder/common"
-	"github.com/cyverse-de/messaging/v11"
+	"github.com/cyverse-de/messaging/v12"
 	"github.com/pkg/errors"
 	amqp "github.com/rabbitmq/amqp091-go"
 )
